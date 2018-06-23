@@ -1,4 +1,4 @@
-namespace MappingChainDemo
+namespace MappingChainDemo.Models
 {
     public static class OrderVersions
     {

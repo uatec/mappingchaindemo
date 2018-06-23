@@ -2,6 +2,7 @@ using System;
 using System.Linq;
 using MappingChainDemo.Models.V2;
 using MappingChainDemo.Models.V3;
+using MappingChainDemo.VersionChain;
 
 namespace MappingChainDemo.Mappers
 {

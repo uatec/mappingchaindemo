@@ -1,6 +1,7 @@
 using System;
 using MappingChainDemo.Models.V1;
 using MappingChainDemo.Models.V2;
+using MappingChainDemo.VersionChain;
 
 namespace MappingChainDemo.Mappers
 {

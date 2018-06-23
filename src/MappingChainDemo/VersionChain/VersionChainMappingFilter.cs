@@ -5,10 +5,11 @@ using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
 using MappingChainDemo.Mappers;
+using MappingChainDemo.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 
-namespace MappingChainDemo
+namespace MappingChainDemo.VersionChain
 {
     public class VersionChainMappingFilter : IActionFilter
     {

@@ -1,4 +1,4 @@
-namespace MappingChainDemo
+namespace MappingChainDemo.VersionChain
 {
     public abstract class VersionChainLinkMapper<TUpper, TLower> : IVersionChainLinkMapper
     {

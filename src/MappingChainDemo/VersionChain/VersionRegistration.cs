@@ -1,6 +1,6 @@
 using System;
 
-namespace MappingChainDemo
+namespace MappingChainDemo.VersionChain
 {
     public class VersionRegistration
     {

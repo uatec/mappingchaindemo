@@ -1,4 +1,5 @@
 ﻿using MappingChainDemo.Models.V2;
+using MappingChainDemo.VersionChain;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
